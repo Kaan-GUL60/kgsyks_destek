@@ -1,6 +1,8 @@
 {
     "logIn": {
         "gmail": "Email Adresi",
-        "password": "Şifre"
+        "password": "Şifre",
+        "forget": "Şifremi Unuttum",
+        "login": "Giriş Yap"
     }
 }
