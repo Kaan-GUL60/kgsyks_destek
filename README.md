@@ -1,11 +1,9 @@
-# KGS YKS DESTEK Mobil Uygulaması
+## 📚 KGS YKS Destek
 
-Bir flutter projesi.
+Yanlışlarını tekrar et, eksiklerini kapat!  
+Sınava hazırlanan öğrenciler için akıllı öğrenme asistanı.
 
-## Uygulama Hakkında
+👉 [Uygulamayı keşfetmek için tıklayın](https://kgs.infinityfreeapp.com/products/kgs-yks-destek/index.html)
 
-This project is a starting point for a Flutter application.
+![Uygulama Görseli]([https://kgs.infinityfreeapp.com/products/kgs-yks-destek/assets/img/cards-4.png](https://kgs.infinityfreeapp.com/products/kgs-yks-destek/assets/img/phone_2.png))
 
-A few resources to get you started if this is your first Flutter project:
-
-- [WEB Sitesi üzerinden mobil uygulamanın tanıtımına erişebilirsiniz.] (https://docs.flutter.dev/get-started/codelab](https://kgs.infinityfreeapp.com/products/kgs-yks-destek/index.html)
